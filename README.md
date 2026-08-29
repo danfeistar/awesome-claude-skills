@@ -166,6 +166,7 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 - [Domain Name Brainstormer](./domain-name-brainstormer/) - Generates creative domain name ideas and checks availability across multiple TLDs including .com, .io, .dev, and .ai extensions.
 - [Internal Comms](./internal-comms/) - Helps write internal communications including 3P updates, company newsletters, FAQs, status reports, and project updates using company-specific formats.
 - [Lead Research Assistant](./lead-research-assistant/) - Identifies and qualifies high-quality leads by analyzing your product, searching for target companies, and providing actionable outreach strategies.
+- [House Skills Kit 中文房产 Skills 库](https://github.com/danfeistar/house-skills-kit) - Chinese real-estate AI skill library: 23 independently installable skills organised by industry role (developer sales, sales-floor, planning, resale brokerage, channel/distribution management, homebuyer, property-media creator), each shipping a SKILL.md + long-form playbook + README. Includes `calc-toolkit` — 20 stdlib-only calculators over a 35-city rules engine where every figure carries its source tier and version tag — plus a brand-consultant template generator and a 12-section authoring spec enforced by a per-commit self-check (`tools/validate_skills.py`, 23 skills / 0 errors). No external API required. Apache-2.0. *By [@danfeistar](https://github.com/danfeistar)*
 
 ### Communication & Writing
 
